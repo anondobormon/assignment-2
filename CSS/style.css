@@ -15,7 +15,7 @@
 }
 
 .nav-logo img{
-    width: 300px;
+    width: 300px !important;
 }
 
 .nav-logo li a{
@@ -26,7 +26,7 @@
 /* ---------part-1------------ */
 
 .section-1{
-    border: 1px solid black;
+    
     height: 620px;
     background-color: #fff9f4;
 }
