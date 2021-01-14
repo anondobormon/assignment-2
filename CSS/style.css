@@ -32,7 +32,7 @@
 }
 @media(max-width:900px){
     .section-1{
-        height: 700px;
+        height: 680px;
     }
 }
 h1{
@@ -42,13 +42,16 @@ h1{
     width: 85%;
     margin-top: -60px;    
 }
-.first-row h1 .name-nike{
-    font-size: 63px;
-    color: #fa804c;
-}
+
+
 .first-row h1{
-    font-size: 70px;
+    font-size: 60px;
     line-height: 1;   
+}
+
+.first-row h1 .name-nike{
+    font-size: 70px;
+    color: #fa804c;
 }
 @media(max-width:900px){
     .first-row h1{
