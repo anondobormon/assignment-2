@@ -1,0 +1,282 @@
+
+
+
+
+
+
+
+
+
+.navigation-1{
+   width: 88%;
+}
+
+
+
+.navigation-1 img{
+    width: 250px;
+    height: 35px;
+}
+
+.navigation-1 ul {
+    display: flex;
+    margin-right: -20px;
+    list-style: none;
+ }
+
+ .navigation-1 ul a{
+     text-decoration: none;
+     padding: 0 25px;
+     font-size: 14px;
+     font-weight: 600;
+     color: black;
+ }
+
+/* ---------part-1------------ */
+
+.section-1{
+    border: 1px solid black;
+    height: 620px;
+    background-color: #fff9f4;
+}
+@media(max-width:900px){
+    .section-1{
+        height: 600px;
+    }
+}
+h1{
+    font-family: 'Bebas Neue', cursive;   
+}
+.first-row img{
+    width: 85%;
+    margin-top: -60px;    
+}
+.first-row h1 .name-nike{
+    font-size: 63px;
+    color: #fa804c;
+}
+.first-row h1{
+    font-size: 70px;
+    line-height: 1;   
+}
+@media(max-width:900px){
+    .first-row h1{
+        font-size: 30px;
+        line-height: 1;  
+    }
+}
+.second-column{
+    top: 30px;
+    position: relative;  
+}
+.second-column{
+    font-size: 14px;
+}
+.buy-btn{
+    background-color: #3a4ade;
+    padding: 13px 20px;
+    border-radius: 10px;
+    border: none;
+}
+.buy-btn a{
+    text-decoration: none;
+    font-weight: 600;
+    color: white;
+    font-size: 14px;
+}
+
+/* ------------end-part-1--------------- */
+
+
+
+/* ------------------part-2-------------------- */
+.casual-shoes{
+    border: none;
+    border-radius: 13px;
+}
+p{
+    font-size: 14px;
+    font-weight: 600;
+}
+.casual-shoes img{
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    margin-top: 15px;
+    position: relative;
+    background-color: #f1f1f1;
+    padding: 15px;
+    border-radius: 15px;    
+}
+h5{
+    font-weight: bold;
+}
+.shoes-footer{
+    background-color: white;
+    border: none;
+    padding-top: 0;
+}
+h3{
+    color: #fa804c;
+    font-weight: 700;
+}
+
+/* ----------------end-part-2-------------------- */
+
+
+/* ------------------------part-3----------------- */
+
+.leather-shoes{
+    border: none;
+    border-radius: 13px;
+}
+
+/* -------------end part-3------------- */
+
+/* ----------part-4-------------- */
+.logos{
+    border-radius: 10px;
+    background-color:white;
+    padding:0 10px;
+    padding-top: 15px;
+    margin-bottom: 20px;
+}
+.icon-1 img{
+    width: 80px;
+}
+.text-1{
+    margin:0px 35px;
+}
+
+.bg-last img{
+    width: 100%;
+}
+
+/* ----------end-part-4------------ */
+
+
+/* ---------part-5---------- */
+.our-services{
+    border: 2px dotted gray;
+    border-radius: 10px;
+}
+.services{
+    padding: 20px 15px;
+    text-align: center;
+}
+.services p{
+    font-size: 60px;
+    text-align: center;
+    line-height: 1;
+    margin-top: 5ps;
+    color: gray;
+}
+.services h3{
+    font-size: 18px;
+    color: gray;
+}
+.services h5{
+    font-size: 15px;
+    color: gray;
+    font-weight: 500;
+}
+
+.our-services:hover{
+    color: limegreen;
+    border-color: limegreen;
+}
+.our-services:hover h3{
+    color: limegreen;
+}
+.our-services:hover h5{
+    color: limegreen;
+}
+.our-services:hover p{
+    color: limegreen;
+}
+
+/* -----end-part-5--- */
+
+/* ----------part-6-------- */
+
+.footer-section{
+    background-color: rgba(0,0,0,0.90);
+    height: 200px;
+    color: white;
+    text-align: center;
+    
+}
+.news-later{
+    padding-top: 50px;
+}
+.news-later h2{
+ font-weight: 700;
+ font-size: 30px;
+ line-height: 2 ;
+}
+.news-later button{
+    border: none;
+    background-color: white;
+    padding: 5px;
+    font-weight: 600;
+    border-radius: 5px;
+}
+
+.news-later .input-email{
+    border: none;
+    padding: 5px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+
+/* --------end-part-6--------- */
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    height: 70px;
+    background-color: black;
+    color: white;
+}
+.social-icon{
+    text-align: center;
+    padding-top: 10px;
+}
+
+
+.social-icon ul{
+    list-style: none;
+    
+}
+
+
+.social-icon ul{
+    display: inline-flex;
+    place-items: center;
+    
+   
+    
+}
+.social-icon ul a{
+    color:white;
+    padding: 10px;
+    font-size: 30px;
+    /* transition: .1s ease-in-out; */
+    
+    
+
+}
+.social-icon a:hover{
+    font-size: 50px;
+    overflow: hidden;
+}
+  
